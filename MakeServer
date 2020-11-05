@@ -1,0 +1,1 @@
+gcc ./Server/Server.c -o ./Server/httpwebserver.out
